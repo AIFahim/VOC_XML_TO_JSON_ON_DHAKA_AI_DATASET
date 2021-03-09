@@ -7,5 +7,5 @@
 <hr>
 
 ## Dhak AI Dataset Link :
-      - [ Competition Dataset ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/POREXF)
-      - [ YoloV5 Formatted Dataset ](https://www.kaggle.com/aifahim/dhakaaiyoloformatteddataset)
+   - [ Competition Dataset ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/POREXF)
+   - [ YoloV5 Formatted Dataset ](https://www.kaggle.com/aifahim/dhakaaiyoloformatteddataset)
