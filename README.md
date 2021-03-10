@@ -17,7 +17,7 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
 
-### This code is works for any Voc Xml Files to Json Files Conversion Purpose. Feel Free to use. If use give me a star :) 
+### This code works for any Voc Xml Files to Json Files Conversion Purpose. Feel Free to use. If use give me a star :) 
 
 <hr>
 
