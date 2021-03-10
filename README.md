@@ -29,3 +29,8 @@ Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 #### Check out [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) YoloV5 Solution : 
    - [ YOLO V5 Solution by Team Autobot](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI) 
+<hr>
+
+#### Trained weight files are available in Kaggle. Check out [Link ](https://www.kaggle.com/aifahim/dhaka-ai-traffic-challenge-weights-yolov5)
+
+<hr>
